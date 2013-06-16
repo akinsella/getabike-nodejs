@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "contract": "Rouen",
+        "service": "cy'clic",
+        "cities": [
+            "Rouen"
+        ]
+    },
+    {
+        "id": 2,
+        "contract": "Paris",
+        "service": "Velib",
+        "cities": [
+            "Arcueil",
+            "Aubervilliers",
+            "Bagnolet",
+            "Boulogne Billancourt",
+            "Charenton",
+            "Clichy",
+            "Fontenay-sous-Bois",
+            "Gentilly",
+            "Issy les Moulineaux",
+            "Ivry",
+            "Joinville",
+            "Le Kremlin Bicêtre",
+            "Le Pré St Gervais",
+            "Les Lilas",
+            "Levallois-Perret",
+            "Malakoff, Montreuil",
+            "Montrouge",
+            "Neuilly",
+            "Nogent",
+            "Pantin",
+            "Paris",
+            "Puteaux",
+            "Saint Cloud",
+            "Saint Denis",
+            "Saint Mandé",
+            "Saint Maurice",
+            "Saint Ouen",
+            "Suresnes",
+            "Vanves",
+            "Vincennes"
+        ]
+    },
+    {
+        "id": 3,
+        "contract": "Toulouse",
+        "service": "Vélô",
+        "cities": [
+            "Toulouse"
+        ]
+    },
+    {
+        "id":4,
+        "contract": "Luxembourg",
+        "service": "Veloh",
+        "cities": [
+            "Luxembourg"
+        ]
+    },
+    {
+        "id": 5,
+        "contract": "Valence",
+        "service": "Valenbisi",
+        "cities": [
+            "Valencia"
+        ]
+    },
+    {
+        "id": 6,
+        "contract": "Stockholm",
+        "service": "Cyclocity",
+        "cities": [
+            "Stockholm"
+        ]
+    },
+    {
+        "id": 7,
+        "contract": "Goteborg",
+        "service": "Göteborg",
+        "cities": [
+            "Göteborg"
+        ]
+    },
+    {
+        "id": 8,
+        "contract": "Santander",
+        "service": "Tusbic",
+        "cities": [
+            "Santander"
+        ]
+    },
+    {
+        "id": 9,
+        "contract": "Amiens",
+        "service": "Velam",
+        "cities": [
+            "Amiens"
+        ]
+    },
+    {
+        "id": 10,
+        "contract": "Mulhouse",
+        "service": "VéloCité",
+        "cities": [
+            "Mulhouse"
+        ]
+    },
+    {
+        "id": 11,
+        "contract": "Lyon",
+        "service": "Vélo'V",
+        "cities": [
+            "Caluire-et-Cuire",
+            "Lyon",
+            "Vaulx-En-Velin",
+            "Villeurbanne"
+        ]
+    },
+    {
+        "id": 12,
+        "contract": "Ljubljana",
+        "service": "Bicikelj",
+        "cities": [
+            "Ljubljana"
+        ]
+    },
+    {
+        "id": 13,
+        "contract": "Seville",
+        "service": "SEVICI",
+        "cities": [
+            "Sevillia"
+        ]
+    },
+    {
+        "id": 14,
+        "contract": "Nancy",
+        "service": "vélOstan'lib",
+        "cities": [
+            "Nancy"
+        ]
+    },
+    {
+        "id": 15,
+        "contract": "Namur",
+        "service": "Li bia velo",
+        "cities": [
+            "Namur"
+        ]
+    },
+    {
+        "id": 16,
+        "contract": "Creteil",
+        "service": "Cristolib",
+        "cities": [
+            "Créteil"
+        ]
+    },
+    {
+        "id": 17,
+        "contract": "Cergy-Pontoise",
+        "service": "Velo2",
+        "cities": [
+            "Cergy",
+            "Courdimanche",
+            "Eragny-sur-Oise",
+            "Neuville-sur-Oise",
+            "Pontoise",
+            "Saint-Ouen-L'Aumone",
+            "Vauréal"
+        ]
+
+    },
+    {
+        "id": 18,
+        "contract": "Bruxelles-Capitale",
+        "service": "villo",
+        "cities": [
+            "Anderlecht",
+            "Berchem-Sainte-Agathe",
+            "Bruxelles",
+            "Etterbeek",
+            "Forest",
+            "Ganshoren",
+            "Ixelles",
+            "Jette",
+            "Koekelberg",
+            "Molenbeek-Saint-Jean",
+            "Saint-Gilles",
+            "Saint-Josse-ten-noode",
+            "Schaerbeek",
+            "Uccle",
+            "Woluwe-Saint-Lambert",
+            "Woluwe-Saint-Pierre"
+        ]
+    },
+    {
+        "id": 19,
+        "contract": "Toyama",
+        "service": "cyclocity",
+        "cities": [
+            "Toyama"
+        ]
+    },
+    {
+        "id": 20,
+        "contract": "Marseille",
+        "service": "Le vélo",
+        "cities": [
+            "Marseille"
+        ]
+    },
+    {
+        "id": 21,
+        "contract": "Nantes",
+        "service": "Bicloo",
+        "cities": [
+            "Nantes"
+        ]
+    },
+    {
+        "id": 22,
+        "contract": "Besancon",
+        "service": "VéloCité",
+        "cities": [
+            "Besançon"
+        ]
+    }
+]
